@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Pedro Miguel Sánchez
 
-<!--
-**sxz0/sxz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Researcher in AI & Cybersecurity at Funditec  
+🧠 Specialized in Federated Learning, Trustworthy AI, and Secure IoT  
+📍 Based in Spain | 🌍 Collaborating internationally  
 
-Here are some ideas to get you started:
+## 🔬 Current Focus
+- Trust and Explainability in AI
+- Federated & Decentralized Learning
+- Cybersecurity for AI and AI for Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/pedromiguelsanchezsanchez](https://www.linkedin.com/in/pedromiguelsanchezsanchez/)
+- Web: [pedromiguel.me](https://pedromiguel.me)
