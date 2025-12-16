@@ -7,12 +7,13 @@
 ![Trustworthy AI](https://img.shields.io/badge/Trustworthy%20AI-Robustness-yellow?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=sxz0&label=Profile%20views&color=0e75b6&style=flat)
 
-🎓 Senior Researcher in AI & Cybersecurity at Funditec  
+🎓 Data Scientist at Roche, Researcher in AI & Cybersecurity   
 🎓 PhD in Computer Science (Cum Laude) – University of Murcia  
 🧠 Specialized in Federated Learning, Trustworthy AI, and Secure IoT  
 📍 Based in Spain | 🌍 Collaborating internationally  
 
 ## 🔬 Current Focus
+- Recommender Systems
 - Cybersecurity for AI and AI for Cybersecurity
 - Federated & Decentralized Learning
 - Trust and Explainability in AI
